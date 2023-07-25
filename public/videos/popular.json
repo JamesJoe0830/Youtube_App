@@ -1,10 +1,10 @@
 {
     "kind": "youtube#videoListResponse",
-    "etag": "glFX6zd0SzIvPqX8RzT5jrnMr9c",
+    "etag": "AfdTQ60rHIqyimBJHYY2o7CCbWg",
     "items": [
         {
             "kind": "youtube#video",
-            "etag": "jpXEZW58Kzve3RG3-oh8Y9a1ItU",
+            "etag": "1HR0Cz9QL2JTTIN9CUd_VQfEDLs",
             "id": "1fIRv1mG3DY",
             "snippet": {
                 "publishedAt": "2023-07-24T17:00:01Z",
@@ -68,15 +68,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "1155618",
-                "likeCount": "138152",
+                "viewCount": "1562267",
+                "likeCount": "166948",
                 "favoriteCount": "0",
-                "commentCount": "7702"
+                "commentCount": "8515"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "VYHQZ-9Hi_qrSL2RGm-XQb9Oh5g",
+            "etag": "tQy1xrhk_VrAhmRTgqLH9DPZPn8",
             "id": "yqarBbEHDn0",
             "snippet": {
                 "publishedAt": "2023-07-24T04:12:01Z",
@@ -135,15 +135,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "425367",
-                "likeCount": "6884",
+                "viewCount": "480211",
+                "likeCount": "7120",
                 "favoriteCount": "0",
-                "commentCount": "767"
+                "commentCount": "786"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "ELE-CV9xQTW5hnO1RV79yGnhcKw",
+            "etag": "KxMqDouFeCuYUMWcPWe0kpmYtTQ",
             "id": "nNv-QEvwfIE",
             "snippet": {
                 "publishedAt": "2023-07-22T19:48:34Z",
@@ -202,15 +202,15 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "8494452",
-                "likeCount": "507309",
+                "viewCount": "8881924",
+                "likeCount": "516637",
                 "favoriteCount": "0",
-                "commentCount": "50105"
+                "commentCount": "51673"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "eMpCzW7NDIP-DltyiT0idrc98lo",
+            "etag": "78n0cweJXM8l1QKR53vdKZ76QN4",
             "id": "DAOZJPquY_w",
             "snippet": {
                 "publishedAt": "2023-07-24T15:00:09Z",
@@ -280,82 +280,70 @@
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "500875",
-                "likeCount": "58787",
+                "viewCount": "687653",
+                "likeCount": "68943",
                 "favoriteCount": "0",
-                "commentCount": "2911"
+                "commentCount": "3207"
             }
         },
         {
             "kind": "youtube#video",
-            "etag": "MUKGe3IAj4KCxONAfSHGAzzPHRY",
-            "id": "wk-TfAdc5O4",
+            "etag": "vg1uAZBBmuMVxqVwygbEgC1rg_w",
+            "id": "oXHykHHNoOY",
             "snippet": {
-                "publishedAt": "2023-07-24T16:45:43Z",
-                "channelId": "UCJ2GvhrAJ2GQVPZ0auza4vw",
-                "title": "I built a GIANT LEGO Disney Train! 🚂",
-                "description": "I built the new LEGO Disney minifigures a MASSIVE train with weird and wacky interiors to ride around a full-sized LEGO train layout! All aboard for a reimagining of your favorite childhood classics!\n\n 🎖 Become a channel member to watch behind-the-scenes unboxing videos: https://youtube.com/c/TheB3/join\n 📸 Instagram: https://www.instagram.com/The_B3_\n 👾 Discord: https://discord.com/invite/UbqkW6Q6BS\n 🐦 Twitter: https://twitter.com/The_B3_\n 2️⃣ Second Channel: youtube.com/c/The3B\n\nLEGO Shop-at-Home website:\n🇺🇸▶https://bit.ly/3AmSA2L 🇬🇧▶https://bit.ly/3unDDJU\n🇨🇦▶https://bit.ly/3OK3HXL 🇦🇺▶https://bit.ly/3at2oxx\n(If our videos inspire you to buy some LEGO sets yourself, please consider using our affiliate links! We earn a small commission from these links, at no additional cost to you 😁)\n\n- - - - - - - - - - - - - - - - - - - - - - - - Credits: - - - - - - - - - - - - - - - - - - - - - - - \nLEGO Thomas the Train remix: youtu.be/FCbqZjKUhMw\nLEGO Oswald Trolley design: instagram.com/reel/Cr0I-QAIXtA\nLEGO old-fashioned TV design: pinterest.com/pin/359021401538975868/\nLEGO Pocahontas remix: youtu.be/zSpkgpQBacE\nLEGO Sorcerer’s Apprentice remix: youtu.be/EM1cPp0tmMs\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nHashtags:\n#LEGO #Minifigures #Train #Disney100 #Disney #LegoDisney",
+                "publishedAt": "2023-07-24T16:00:41Z",
+                "channelId": "UCKlMPy41LVy6J0WINJgd0OA",
+                "title": "Rating Tik Tokers Music (the unfortunate sequel)",
+                "description": "Part 1 - https://www.youtube.com/watch?v=az4gy5YIEGc\n\n0:00 - part 1 went crazy\n2:05 - the official tiers\n3:00 - Charlie D'amelio\n6:30 - Dixie D'amelio\n10:02 - Jxdn\n12:50 - Little Honey\n17:29 - Bella Poarch\n19:04 - Dixie (one last try)",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/wk-TfAdc5O4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/oXHykHHNoOY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/wk-TfAdc5O4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/oXHykHHNoOY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/wk-TfAdc5O4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/oXHykHHNoOY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/wk-TfAdc5O4/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/oXHykHHNoOY/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/wk-TfAdc5O4/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/oXHykHHNoOY/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
-                "channelTitle": "The B3",
-                "tags": [
-                    "lego",
-                    "minifigures",
-                    "legos",
-                    "lego minifigures",
-                    "lego train",
-                    "lego disney",
-                    "lego disney train",
-                    "lego disney 100",
-                    "disney 100"
-                ],
-                "categoryId": "24",
+                "channelTitle": "Ooga Booga",
+                "categoryId": "22",
                 "liveBroadcastContent": "none",
                 "localized": {
-                    "title": "I built a GIANT LEGO Disney Train! 🚂",
-                    "description": "I built the new LEGO Disney minifigures a MASSIVE train with weird and wacky interiors to ride around a full-sized LEGO train layout! All aboard for a reimagining of your favorite childhood classics!\n\n 🎖 Become a channel member to watch behind-the-scenes unboxing videos: https://youtube.com/c/TheB3/join\n 📸 Instagram: https://www.instagram.com/The_B3_\n 👾 Discord: https://discord.com/invite/UbqkW6Q6BS\n 🐦 Twitter: https://twitter.com/The_B3_\n 2️⃣ Second Channel: youtube.com/c/The3B\n\nLEGO Shop-at-Home website:\n🇺🇸▶https://bit.ly/3AmSA2L 🇬🇧▶https://bit.ly/3unDDJU\n🇨🇦▶https://bit.ly/3OK3HXL 🇦🇺▶https://bit.ly/3at2oxx\n(If our videos inspire you to buy some LEGO sets yourself, please consider using our affiliate links! We earn a small commission from these links, at no additional cost to you 😁)\n\n- - - - - - - - - - - - - - - - - - - - - - - - Credits: - - - - - - - - - - - - - - - - - - - - - - - \nLEGO Thomas the Train remix: youtu.be/FCbqZjKUhMw\nLEGO Oswald Trolley design: instagram.com/reel/Cr0I-QAIXtA\nLEGO old-fashioned TV design: pinterest.com/pin/359021401538975868/\nLEGO Pocahontas remix: youtu.be/zSpkgpQBacE\nLEGO Sorcerer’s Apprentice remix: youtu.be/EM1cPp0tmMs\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\nHashtags:\n#LEGO #Minifigures #Train #Disney100 #Disney #LegoDisney"
-                },
-                "defaultAudioLanguage": "en"
+                    "title": "Rating Tik Tokers Music (the unfortunate sequel)",
+                    "description": "Part 1 - https://www.youtube.com/watch?v=az4gy5YIEGc\n\n0:00 - part 1 went crazy\n2:05 - the official tiers\n3:00 - Charlie D'amelio\n6:30 - Dixie D'amelio\n10:02 - Jxdn\n12:50 - Little Honey\n17:29 - Bella Poarch\n19:04 - Dixie (one last try)"
+                }
             },
             "contentDetails": {
-                "duration": "PT9M12S",
+                "duration": "PT22M39S",
                 "dimension": "2d",
                 "definition": "hd",
-                "caption": "true",
-                "licensedContent": true,
+                "caption": "false",
+                "licensedContent": false,
                 "contentRating": {},
                 "projection": "rectangular"
             },
             "statistics": {
-                "viewCount": "147848",
-                "likeCount": "6388",
+                "viewCount": "229431",
+                "likeCount": "27611",
                 "favoriteCount": "0",
-                "commentCount": "1698"
+                "commentCount": "1466"
             }
         }
     ],
