@@ -25,7 +25,7 @@ export default function SearchHeader() {
       </Link>
       <form className="w-full flex justify-center" onSubmit={handleSubmit}>
         <input
-          className="w-7/12 p-2 outline-none bg-white text-gray-50 rounded-l-3xl"
+          className="w-7/12 p-2 outline-none bg-white text-gray-700 rounded-l-3xl"
           // width 7/12 차지할 수 있게
           type="text"
           placeholder="검색"
