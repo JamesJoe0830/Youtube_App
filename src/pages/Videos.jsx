@@ -2,26 +2,23 @@ import React from "react";
 import { useParams } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
 import VideoCard from "../components/VideoCard";
-import axios from 'axios';
+import { useYoutubeApi } from "../context/YoutubeApiContext";
 
-
-export default function Videos() {
+export default function Videos() { 
   const { keyword } = useParams();
+  const { youtube } = useYoutubeApi();
   //🔜
   const {
     isLoading,
     error,
     data: videos,
-  } = useQuery(["videos", keyword], async () => {
-    return axios
-    .get(`/videos/${keyword ? "search" : "popular"}.json`)
-    .then((res)=> res.data.items);
-    // fetch(`/videos/${keyword ? "search" : "popluar"}.json`)
-    //   .then((res) => res.json())
-    //   .then((data) => data.items);
-  });
+  } = useQuery(["videos", keyword], () => youtube.search(keyword));
+  //   const youtube = new FakeYoutube();
+  //   return youtube.search(keyword);
+  // }); -> 호출할때마다 계속해서 인스턴스 생성해줘서 비효율적임
+
   //🔜
-  return (
+  return ( 
     <div>
       Videos {keyword ? `🔎${keyword}` : "🔥"}
       {isLoading && <p>Loading ...</p>}
@@ -35,8 +32,4 @@ export default function Videos() {
       )}
     </div>
   );
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> afeea3f3c54db43dd24ded811131309e1ab30064
