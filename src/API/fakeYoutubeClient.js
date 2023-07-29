@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from "axios";
 
 // export async function search(keyword) {
 //   return axios
@@ -9,11 +9,16 @@ import axios from 'axios';
 //     //   .then((data) => data.items);
 // }
 
-export default class FakeYoutube {
-    async search() {
-        return axios.get('/videos/search.json');
-    }
-    async videos() {
-        return axios.get('/videos/popular.json');
-    }
+export default class FakeYoutubeClient {
+  async search({ params }) {
+    return axios.get(
+      `/videos/${params.relatedToVideoId ? 'related' : 'search'}.json`
+    );
+  }
+  async videos() {
+    return axios.get("/videos/popular.json");
+  }
+  async channels() {
+    return axios.get("/videos/channel.json");
+  }
 }
