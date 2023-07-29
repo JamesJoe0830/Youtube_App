@@ -2,9 +2,9 @@ import React from 'react';
 import {GoHome} from 'react-icons/go';
 import {BiSolidVideos} from 'react-icons/bi';
 import {MdOutlineSubscriptions} from 'react-icons/md';
-import {useNavigate} from 'react-router-dom';
+
 export default function Sidebar() {
-    const navigate = useNavigate();
+
     return (
 <div class="flex justify-center items-center">
   <section className='fixed flex-col left-0 top-20 ml-10 text-center'>
