@@ -2631,7 +2631,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tanstack/react-query@npm:^4.32.0":
+"@tanstack/react-query@npm:^4.13.5":
   version: 4.32.0
   resolution: "@tanstack/react-query@npm:4.32.0"
   dependencies:
@@ -6017,7 +6017,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^8.3.0, eslint@npm:^8.45.0":
+"eslint@npm:^8.3.0":
   version: 8.45.0
   resolution: "eslint@npm:8.45.0"
   dependencies:
@@ -13502,12 +13502,11 @@ __metadata:
   resolution: "youtube@workspace:."
   dependencies:
     "@tailwindcss/line-clamp": ^0.4.4
-    "@tanstack/react-query": ^4.32.0
+    "@tanstack/react-query": ^4.13.5
     "@testing-library/jest-dom": ^5.14.1
     "@testing-library/react": ^13.0.0
     "@testing-library/user-event": ^13.2.1
     axios: ^1.4.0
-    eslint: ^8.45.0
     eslint-config-react-app: ^7.0.1
     react: ^18.2.0
     react-dom: ^18.2.0
